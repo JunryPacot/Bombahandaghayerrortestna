@@ -1,6 +1,6 @@
 📱 SMS Bomber — Educational Project
 
-Website: "bombahan.freedev.app" (https://reference-url-citation.invalid/0)
+Website: https://bombahan.freedev.app
 
 ⚠️ Educational Purpose Only
 
@@ -82,7 +82,7 @@ Independent student developer and programmer.
 
 Project: SMS Bomber — Educational/Experimental Project
 
-Website: "bombahan.freedev.app" (https://reference-url-citation.invalid/1)
+Website: https://bombahan.freedev.app
 
 ---
 
